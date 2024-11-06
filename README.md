@@ -1,4 +1,4 @@
-<!--내용 부분-->
+<!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
 </div>
+
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack & Skill Level ✨</h3>
 <div align="center">
+  <!-- JavaScript -->
   <svg width="300" height="120" viewBox="0 0 300 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="0" y="0" rx="5" ry="5" width="300" height="30" fill="#fff" stroke="#e4e2e2" />
     <text x="10" y="20" font-size="14" fill="#2f80ed" font-weight="bold">JavaScript</text>
@@ -29,6 +31,7 @@
     <rect width="144" height="8" fill="#F7DF1E" rx="5" />
   </svg>
   
+  <!-- HTML -->
   <svg width="300" height="120" viewBox="0 0 300 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="0" y="0" rx="5" ry="5" width="300" height="30" fill="#fff" stroke="#e4e2e2" />
     <text x="10" y="20" font-size="14" fill="#2f80ed" font-weight="bold">HTML</text>
@@ -37,6 +40,7 @@
     <rect width="126" height="8" fill="#E34F26" rx="5" />
   </svg>
 
+  <!-- Python -->
   <svg width="300" height="120" viewBox="0 0 300 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="0" y="0" rx="5" ry="5" width="300" height="30" fill="#fff" stroke="#e4e2e2" />
     <text x="10" y="20" font-size="14" fill="#2f80ed" font-weight="bold">Python</text>
@@ -45,6 +49,7 @@
     <rect width="153" height="8" fill="#3572A5" rx="5" />
   </svg>
   
+  <!-- C# -->
   <svg width="300" height="120" viewBox="0 0 300 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="0" y="0" rx="5" ry="5" width="300" height="30" fill="#fff" stroke="#e4e2e2" />
     <text x="10" y="20" font-size="14" fill="#2f80ed" font-weight="bold">C#</text>
@@ -53,6 +58,7 @@
     <rect width="108" height="8" fill="#239120" rx="5" />
   </svg>
   
+  <!-- Java -->
   <svg width="300" height="120" viewBox="0 0 300 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="0" y="0" rx="5" ry="5" width="300" height="30" fill="#fff" stroke="#e4e2e2" />
     <text x="10" y="20" font-size="14" fill="#2f80ed" font-weight="bold">Java</text>
@@ -71,6 +77,4 @@
   </svg>
 
 </div>
-
-
 <br>
